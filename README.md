@@ -3,10 +3,10 @@
 
 MK1 Demo<br>
 1. Click Apps buttoin and Swipe menu page<br>
- https://www.youtube.com/watch?v=xOz4XRCZiHU
+ <iframe width="854" height="480" src="https://www.youtube.com/embed/xOz4XRCZiHU" frameborder="0" allowfullscreen></iframe>
 <br>
 <br>
 2. Accuracy testing<br>
- https://youtu.be/uUSc-AoBw_4<br>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/uUSc-AoBw_4" frameborder="0" allowfullscreen></iframe>
 
 
